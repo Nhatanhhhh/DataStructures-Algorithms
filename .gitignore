@@ -1,0 +1,19 @@
+# Bytecode files
+*.class
+
+# Compiled files
+/bin/
+/lib/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Java-specific build tools
+/build/
